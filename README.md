@@ -1,4 +1,4 @@
-#Project Infromation
+# Project Information
 
 This is the front-end files for an auction web page.
 
