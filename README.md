@@ -1,3 +1,9 @@
+#Project Infromation
+
+This is the front-end files for an auction web page.
+
+Demo: https://drive.google.com/file/d/18a0v_UhLbaziR47gEhBnd_DXoOMHo6CO/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
